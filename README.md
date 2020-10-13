@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![hisuie08's github stats](https://github-readme-stats.vercel.app/api?username=hisuie08)
 [![](https://raw.githubusercontent.com/hisuie08/hisuie08/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
